@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have not used Android Studio in a while, even though it was one of the platforms that got me into coding. This project was a lot of rediscovering concepts I learned in the past while learning some new ones.
 
 ## License
 
