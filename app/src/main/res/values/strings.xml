@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="jairo_intro">Hello! My name is Jairo and this is my bird, Perry!</string>
+    <string name="btn_text">Say Hello</string>
+    <string name="perry_img_description">Image of my parakeet</string>
+</resources>
